@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raza Ali
 
- A passionate Software Engineer from **PUCIT**, currently in my 6th semester. I specialize in building **modern web applications**, crafting **AI-powered solutions**, and solving real-world problems through code.
+ A passionate Final Year Software Engineer from **PUCIT**,  I specialize in building **modern web applications**, crafting **AI-powered solutions**, and solving real-world problems through code.
 
 ---
 
