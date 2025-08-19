@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raza Ali
+# 👋 Hi, I'm Muhammad Raza Ali
 
  A passionate Final Year Software Engineer from **PUCIT**,  I specialize in building **modern web applications**, crafting **AI-powered solutions**, and solving real-world problems through code.
 
