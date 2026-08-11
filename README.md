@@ -125,9 +125,9 @@ An AI-powered precision-agriculture platform using satellite imagery and NDVI an
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RazaAli313&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Muhammad Raza Ali GitHub statistics" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RazaAli313&theme=tokyonight" alt="Muhammad Raza Ali GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazaAli313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RazaAli313&theme=tokyonight" alt="Repositories by language" />
 
 <img src="https://streak-stats.demolab.com?user=RazaAli313&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
