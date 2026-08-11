@@ -121,6 +121,34 @@ An AI-powered precision-agriculture platform using satellite imagery and NDVI an
 
 ---
 
+## 🧠 My Personal AI Operating System
+
+I am building an interconnected AI operating system for managing my work, knowledge, finances, goals and digital presence.
+
+| Component | Purpose | Status |
+|---|---|---|
+| [DulDul AI](https://razaali.revamp-ai.tech) | Bilingual English/Urdu personal AI voice assistant grounded in my professional knowledge | Live |
+| [Expense Tracker](https://expense-tracker.revamp-ai.tech) | Personal finance and spending management | Live |
+| [Progress Tracker](https://progress.revamp-ai.tech) | Goal, habit and long-term progress tracking | Live |
+| Second Brain | Connected knowledge and productivity workspace | In development |
+| Social Automation | AI-assisted content generation and publishing across multiple platforms | Active |
+| Productivity Layer | Gmail, Google Drive, Calendar, Slack and ClickUp connected through MCP | Active |
+| Development Layer | Claude Skills, Claude Code and Codex for planning, building and debugging | Active |
+
+Rather than treating these as isolated tools, I connect them into one operating layer. AI agents, MCP integrations, voice interaction and custom applications work together to reduce repetitive work and keep my daily activities synchronized.
+
+~~~text
+Knowledge + Goals + Finances + Communication + Content
+                         ↓
+                 Personal AI Layer
+                         ↓
+       Insight → Action → Tracking → Improvement
+~~~
+
+This ecosystem is also how I approach work at **Revamp AI**: understand the workflow, design the right system and turn it into measurable automation.
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
